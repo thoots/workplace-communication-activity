@@ -30,6 +30,6 @@ BEGIN
        
         PRINT" A quick update to fix an issue"
     END FUNCTION
-   Added a termm in read me
+   Added a term in read me
     CALL MorningSyncMeeting()
 END
